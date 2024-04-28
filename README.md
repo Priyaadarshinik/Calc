@@ -174,6 +174,10 @@ for (item of buttons) {
 ```
 
 
+
+
+
+
 ## OUTPUT:
 
 ![alt text](<projcalc/casio/static/Screenshot 2024-04-28 121255.png>)
