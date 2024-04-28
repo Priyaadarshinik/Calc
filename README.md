@@ -41,7 +41,7 @@ calc.html
     <div class="container">
         <h1>CALCULATOR</h1>
         <h2 class="text">PRIYAADARSHINI K (212223240126)</h2><br>
-        <h2 class="text">SIMPLE CALCULATOR</h2>
+        <h2 class="text">STANDARD CALCULATOR</h2>
 
         <div class="calculator">
             <input type="text" name="screen" id="screen">
